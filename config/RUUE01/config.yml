@@ -2,7 +2,6 @@
 
 object: sys/main.dol
 object_base: orig/RUUE01
-extract_objects: true
 
 # Change this to match the linker version.
 # See config.example.yml for a list.
